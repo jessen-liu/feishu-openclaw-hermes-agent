@@ -13,6 +13,8 @@ Feishu's WebSocket event push (`im.message.receive_v1`) does **NOT** fire for bo
 
 This is a platform-level limitation — not a framework or permission issue. **Polling via REST API is required.**
 
+![Bot Chat Screenshot](screenshots/bot-chat-demo.png)
+
 ---
 
 ## Requirements
