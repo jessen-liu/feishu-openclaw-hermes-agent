@@ -13,7 +13,7 @@
 
 这是平台层面的限制——不是框架或权限问题。**必须通过 REST API 轮询来获取消息。**
 
-![Bot 聊天截图](screenshots/bot-chat-demo.png)
+![Bot 聊天截图](screenshots/bot-chat-demo.png?v=2)
 
 ---
 
